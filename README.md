@@ -71,7 +71,7 @@ Tantalizers, UBA, United Capital, Wema Bank, Zenith Bank.
 
 ## Author
 Moses | MO_Equity Fund | NGX AMEBO Research
-NYSC Corps Member - KPMG Deal Advisory, Lagos
+Audit Intern - KPMG, Nigeria
 ACA Candidate | FinTree Co-Founder
 
 ## License
