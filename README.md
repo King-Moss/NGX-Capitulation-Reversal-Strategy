@@ -5,7 +5,7 @@
 ## Overview
 A systematic quantitative backtest of a capitulation reversal strategy
 across 31 NGX-listed equities, covering 2017-2026 (8.9 years of daily data).
-Built as part of the MO_Equity Fund research framework under NGX AMEBO.
+Built as part of the MO_Equity Fund research framework.
 
 ## Research Question
 Does a capitulation reversal strategy generate positive risk-adjusted returns
